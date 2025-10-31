@@ -5,7 +5,7 @@
 
 ---
 #### 1. License Grant
-This pre-release version {{version}} of the software (“Software”) is provided free of charge for testing, evaluation, and non-commercial use only.  
+This version of the software (“Software”) is provided free of charge for testing, evaluation, and non-commercial use only.  
 No rights are granted for commercial use, redistribution, resale, or sublicensing.
 
 #### 2. Ownership
