@@ -1,4 +1,4 @@
-![Module Flow](baner.png)
+![Module Flow](logo.png)
 # 🛠️ Module Flow
 
 A desktop application for managing generative pipelines. It lets you build modular prompt chains, control generation parameters, run tasks, and track results - all in one interface.
