@@ -61,6 +61,6 @@ If you'd like to support development - a subscription on [Patreon](https://www.p
 
 ---
 
-## 📜 License
+## 📜 License ([EULA](LICENSE.md))
 
-[EULA](LICENSE.md)
+Module Flow is **free for non-commercial use**. A clear commercial licensing plan will be available soon.
