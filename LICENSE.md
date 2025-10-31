@@ -1,7 +1,7 @@
 ## **End User License Agreement (EULA)**  
 
 **Module Flow**
-*© 2025 Denis Pechenkin — All rights reserved*  
+*© 2025 Denis Pechenkin — All rights reserved* 
 
 ---
 #### 1. License Grant

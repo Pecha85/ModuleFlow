@@ -32,7 +32,7 @@ A desktop application for managing generative pipelines. It lets you build modul
 2. Unpack the archive
 3. Run `Module Flow.exe` (Windows)
 
-> 🧪 **Linux and macOS builds are in development** and will be released soon.
+> 🧪 **Linux and macOS builds are in development** and will be released soon
 
 ---
 
