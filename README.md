@@ -59,6 +59,8 @@ A Discord server for the project is coming soon, where features, issues, and con
 
 If you'd like to support development - a subscription on [Patreon](https://www.patreon.com/PechaSD) is greatly appreciated. It helps speed up development, testing, and feature delivery. Boosty support is also planned.
 
+Page on [CivitAI](https://civitai.com/models/2089076/module-flow-desktop-application-for-managing-generative-pipelines)
+
 ---
 
 ## 📜 License ([EULA](LICENSE.md))
