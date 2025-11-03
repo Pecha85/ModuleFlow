@@ -3,7 +3,26 @@
 All notable changes to this project will be documented in this file.
 
 ---
+## [0.0.2] - Bug fixing. Drag&Drop system
 
+### Fixed
+- Text display adjustments in UI
+- UI module delamination when task preview is enabled and the chain is hidden
+- The ability to delete tasks during generation
+- Rename "prompt group" → "module presets". Remove "exaples" folder and restart for update
+- Task Resource name fixes
+- "Wrong JSON" error during config opening
+
+### Added
+- Drag&Drop JSON system. Automatically opened modules, chain presses, generative configs and tasks when D&D files to the interface
+- Warnings when starting a task without configs and links
+- Updates in the "info" section
+- Added check for the existence of the task folder before pressing the button
+- JSON protection system for config loading
+- Warnings with JSON type when open config
+- Documentation updates
+
+---
 ## [0.0.1] - Initial Release
 
 ### Added
