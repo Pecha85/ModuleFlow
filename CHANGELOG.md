@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 
 ---
+## [0.0.3] - Bug fixing. Discord community is UP!
+
+### Fixed
+- Fixed configuration reload after canceling task editing
+- Naming mistakes in code
+- Bug in preview task transition
+- "+" Button position in Chain
+- UI fixes
+
+### Added
+- Buttons to confirm task editing in the task bar
+- Task progress and state color in the task bar
+- Prompt chain connected to Log system
+- Documentation updates
+- UX improvements
+- Discord server
+
+---
 ## [0.0.2] - Bug fixing. Drag&Drop system
 
 ### Fixed
