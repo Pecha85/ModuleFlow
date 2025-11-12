@@ -55,7 +55,7 @@ Functionality will expand based on user feedback.
 If you're interested in the project or already using it - all feedback, suggestions, and reports are highly appreciated.  
 Use [GitHub Issues](https://github.com/Pecha85/ModuleFlow/issues) to report bugs or share ideas and experience.
 
-The **Module Flow [Discord](https://discord.gg/2czd6aSah3) server.
+**Module Flow** [Discord](https://discord.gg/2czd6aSah3) server.
 Join to:
 - Discuss features, updates, and roadmap direction
 - Get help with setup, bugs, and advanced configurations
