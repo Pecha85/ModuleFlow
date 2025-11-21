@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 
 ---
+## [0.0.4] - Bug fixing. Preset manager
+
+### Fixed
+- Fixed configuration reload after canceling task editing
+- Fixed incorrect formatting of links in the MD service
+- Fixes in the Link system
+- Fixes in Info 
+- Fixes in WebSocketManager code
+- Fixes in FileManager code
+- Starting preset was removed due to the transition to the Preset Manager
+### Added
+- Preset Manager
+- 3 example presets
+- Buttons to confirm task editing in the task bar
+- New log events
+- Info updates
+
+---
 ## [0.0.3] - Bug fixing. Discord community is UP!
 
 ### Fixed
